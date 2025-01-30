@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "kTZaCeM6q/Imgx44F4wDMnbx34wtdvznHQJ0X2X9u20rfjNHl76JsL3ntJQ4kxAOoVKf9lu3O1quemLQK6qg9g==",
+  "success": true,
+  "projectFilePath": "/Users/yawen/projects/games/Rhythm Game Prototype/Assembly-CSharp.csproj",
+  "expectedPackageFiles": [],
+  "logs": [
+    {
+      "code": "NU1900",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Error occurred while getting package vulnerability data: Access to the path '/Users/yawen/.local/share/NuGet/http-cache' is denied."
+    }
+  ]
+}
